@@ -1,4 +1,4 @@
-package com.malfaro.alarm_clock_app;
+package com.alfarosoft.alarmclockapp;
 
 import org.junit.Test;
 
